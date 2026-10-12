@@ -1,0 +1,2 @@
+# Automated-SRAM-Static-Noise-Margin-SNM-Characterization
+This project explores the static noise margin (SNM) of a 6-transistor (6T) SRAM bitcell using LTspice circuit simulation and Python-based data analysis. The objective is to characterize SRAM data stability under hold conditions, generate inverter voltage-transfer characteristics (VTCs), and visualize the butterfly curve used in SNM analysis.
